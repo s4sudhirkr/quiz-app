@@ -8,7 +8,7 @@ The QuizApp is a progressive web app ([PWA](https://developers.google.com/web/pr
 
 ## Demo
 
-- [master](https://safdarjamal.github.io/quiz-app) (Latest)
+- [master](https://s4sudhirkr.github.io/quiz-app) (Latest)
 - [v4.0](https://quizapp-v4.surge.sh) (Create Q/A dashboard)
 - [v3.0](https://quizapp-v3.surge.sh) (Play fully customize quiz and its now a PWA)
 - [v2.0](https://quizapp-v2.surge.sh) (Add countdown timer and some UI enhancement)
@@ -19,7 +19,7 @@ The QuizApp is a progressive web app ([PWA](https://developers.google.com/web/pr
 To get a local copy of the code, clone it using git:
 
 ```
-git clone https://github.com/SafdarJamal/quiz-app.git
+git clone https://github.com/s4sudhirkr/quiz-app.git
 cd quiz-app
 ```
 

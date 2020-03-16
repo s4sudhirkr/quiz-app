@@ -3,10 +3,10 @@
   "version": "4.3.0",
   "private": true,
   "author": {
-    "name": "Safdar Jamal",
-    "url": "https://safdarjamal.github.io"
+    "name": "Sudhir Sharma",
+    "url": "https://s4sudhirkr.github.io"
   },
-  "homepage": "https://safdarjamal.github.io/quiz-app",
+  "homepage": "https://s4sudhirkr.github.io/quiz-app",
   "dependencies": {
     "he": "^1.2.0",
     "react": "^16.12.0",
